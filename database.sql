@@ -95,4 +95,4 @@ INNER JOIN t_usuario USU on USU.id_usuario = FAC.id_usuario
 INNER JOIN t_cliente Cli on Cli.id_cliente = FAC.id_cliente
 INNER JOIN t_producto PRO on PRO.id_producto = FAC.id_producto
 
--- REPITE ESTA LINIA 
+-- REPITE ESTA LINIA  
